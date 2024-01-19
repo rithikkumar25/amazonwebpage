@@ -1,0 +1,1 @@
+This a clone of the Amazon webpage using HTML and CSS. It replicates the layout and styling, including the header, navigation, product cards, and footer. The clone is responsive and looks great on different devices. 
